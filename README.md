@@ -1,2 +1,2 @@
 # fictional-system
-Pete'd proj
+Pete's proj
